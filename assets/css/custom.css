@@ -450,7 +450,7 @@ header.main-header .header-sticky.active{
 	padding: 0;
 	margin: 0;
 	list-style: none;
-	width: 230px;
+	width: 290px;
 	border-radius: 0;
 	position: absolute;
 	left: 0;
@@ -488,7 +488,7 @@ header.main-header .header-sticky.active{
 
 .main-menu ul ul li a{
 	opacity: 100%;
-	padding: 6px 20px !important;
+	padding: 13px 30px !important;
 	transition: all 0.3s ease-in-out;
 }
 
