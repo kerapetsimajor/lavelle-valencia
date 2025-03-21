@@ -3331,7 +3331,7 @@ header.main-header .header-sticky.active{
     justify-content: center;
     align-items: center;
     background: var(--secondary-color);
-    color: var(--primary-color);
+    color: var(--white-color);
 	border-radius: 0px;
     width: 40px;
     height: 40px;
@@ -3532,10 +3532,6 @@ header.main-header .header-sticky.active{
 
 .post-tags .tag-links a:hover{
 	background: var(--primary-color);
-}
-
-.post-social-sharing{
-    text-align: right;
 }
 
 .post-social-sharing ul{
@@ -5726,6 +5722,9 @@ header.main-header .header-sticky.active{
 }
 .pb {
 	padding-bottom: 50px;
+}
+.pb-30 {
+	padding-bottom: 30px;
 }
 .pt {
 	padding-top: 50px;
